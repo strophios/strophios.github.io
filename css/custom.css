@@ -1,0 +1,76 @@
+/* custom css here is modeled on Conor Gilroy's site and the KISS theme (which he uses)
+this should be fine, since it seems that the KISS theme uses flexbox for layouts
+and SASS, the extension of CSS which Even uses, also uses flexbox so hopefully this all works */
+
+/* CSS purely stolen from Conor's site for styling the avatar picture */
+img[alt=me] {
+  border-radius: 50%;
+  width: calc(820px / 3 - 20px); /* this is the desktop width */
+  /* max-width for img is 100% */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* trying to size down the social media icons in the nav bar */
+/* actually, don't need to for the moment, since sizing up the main title was sufficient, I think */
+/* so this is the same as it is in the main theme css file */
+.icon {
+  height: 24px;
+  width: 24px;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+/* adding special title classes for the the site title (my name) and the nav menu, so that they can have different spacing */
+.title.is-1-head {
+  font-size: 48px;
+  line-height: .9;
+}
+
+.title.is-2-head {
+  font-size: 40px;
+  line-height: .9;
+}
+
+.title.is-3-head {
+  font-size: 28px;
+  line-height: .9;
+}
+
+.title.is-4-head {
+  font-size: 24px;
+  line-height: .9;
+}
+
+.title.is-5-head {
+  font-size: 18px;
+  line-height: .9;
+}
+
+/* so, I was working to fiddle with icon sizes, and fiddling with the size in .icon doesn't seem to work, but
+adding "is-small" does make it point to this class, so I don't know why one pointer seems to work but the other doesn't */
+.icon {
+  height: 24px;
+  width: 24px;
+  font-size: inherit;
+  line-height: inherit;
+}
+.icon.is-small {
+  font-size: 14px;
+  height: 16px;
+  line-height: 16px;
+  width: 16px;
+}
+.icon.is-medium {
+  font-size: 28px;
+  height: 32px;
+  line-height: 32px;
+  width: 32px;
+}
+.icon.is-large {
+  font-size: 42px;
+  height: 48px;
+  line-height: 48px;
+  width: 48px;
+}
