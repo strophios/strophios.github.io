@@ -74,3 +74,68 @@ adding "is-small" does make it point to this class, so I don't know why one poin
   line-height: 48px;
   width: 48px;
 }
+
+/* making adjustments for mobile, specifically: altering the nav-right class so that it tries to fill a line and wraps, rather
+than just being a single column. */
+@media screen and (max-width: 768px) {
+  .nav-right {
+    -webkit-box-align: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-flow: row wrap;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: space-evenly;
+  }
+}
+
+/* also altering class nav-right-icons (added to the nav icons bit to distinguish) so
+that they're hidden when the screen is small enough that they'd hide my name (screen width < 434). also altering nav-left
+to be *centered* when the screen is that small */
+@media screen and (max-width: 433px) {
+  .nav-right-icons {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: none;
+  }
+}
+
+@media screen and (max-width: 433px) {
+  .nav-left {
+    -webkit-box-align: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+/* finally, adding a some new rules so that I can display the icons in the footer, centered, but only
+when the screen is small enough that they're hidden at the top */
+@media screen and (min-width: 434px) {
+  .nav-right-icons-footer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: none;
+  }
+}
+/* not quite right: can't figure out how to get the icons spaced nicely, but I think I'm just gonna live with it for now */
+@media screen and (max-width: 433px) {
+  .nav-right-icons-footer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
