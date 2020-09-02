@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steven Lauterwasser</title>
-    <link>stevenlauterwasser.com/</link>
+    <link>https://stevenlauterwasser.com/</link>
     <description>Recent content on Steven Lauterwasser</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2020 Steven Lauterwasser</copyright>
     
-	<atom:link href="stevenlauterwasser.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stevenlauterwasser.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact</title>
-      <link>stevenlauterwasser.com/contact/</link>
+      <link>https://stevenlauterwasser.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>stevenlauterwasser.com/contact/</guid>
+      <guid>https://stevenlauterwasser.com/contact/</guid>
       <description>I can be contacted via email at swlauterwasser@berkeley.edu.</description>
     </item>
     
     <item>
       <title>CV</title>
-      <link>stevenlauterwasser.com/cv/</link>
+      <link>https://stevenlauterwasser.com/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>stevenlauterwasser.com/cv/</guid>
+      <guid>https://stevenlauterwasser.com/cv/</guid>
       <description>My CV can be downloaded here.</description>
     </item>
     
     <item>
       <title>Music</title>
-      <link>stevenlauterwasser.com/music/</link>
+      <link>https://stevenlauterwasser.com/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>stevenlauterwasser.com/music/</guid>
+      <guid>https://stevenlauterwasser.com/music/</guid>
       <description>I have been the music director for Perfect Fifth since Fall 2014. Perfect Fifth is a small student a cappella choir specializing in the music of the Renaissance, but our repertoire ranges from the beginnings of western polyphonic music in the Middle Ages all the way to contemporary art music. While it previously relied on directorial support from the University of California Choral Ensembles (ably provided by Mark Sumner), under my tenure Perfect Fifth has shifted to being fully self-run.</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>stevenlauterwasser.com/research/</link>
+      <link>https://stevenlauterwasser.com/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>stevenlauterwasser.com/research/</guid>
+      <guid>https://stevenlauterwasser.com/research/</guid>
       <description>Parties and Publics: Asymmetry and Mass Polarization Despite nearly unanimous recognition that polarization at the elite level is asymmetric in favor of Republicans, there has as yet been no systematic investigation of asymmetry in mass polarization. This question has been largely ignored because much of the literature implicitly assumes that such asymmetry is impossible: polarization emerges out of opinion and identity cleavages within the polity, cleavages which are the product macro-social forces and not really amenable to elite influence.</description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>stevenlauterwasser.com/teaching/</link>
+      <link>https://stevenlauterwasser.com/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>stevenlauterwasser.com/teaching/</guid>
+      <guid>https://stevenlauterwasser.com/teaching/</guid>
       <description>I have extensive experience teaching both within the university and outside of it. I have five years of experience as a Graduate Student Instructor at UC Berkeley, teaching sections for a wide variety of courses, from Intro to Sociology and Intro Methods to upper level courses including both those focused on particular topic areas (i.e. Urban Sociology or Sexual Cultures) and the department&amp;rsquo;s year long Introduction to Sociological Theory. This semester I am particularly excited to be a Writing GSI and have the chance to focus on writing skills and close one-on-one work with students in a way which time constraints make difficult in other teaching roles.</description>
     </item>
     
