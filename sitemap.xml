@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://stevenlauterwasser.com/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://stevenlauterwasser.com/contact/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://stevenlauterwasser.com/cv/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://stevenlauterwasser.com/music/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://stevenlauterwasser.com/research/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://stevenlauterwasser.com/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://stevenlauterwasser.com/teaching/</loc>
   </url>
-  
 </urlset>
