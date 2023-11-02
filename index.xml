@@ -6,51 +6,42 @@
     <description>Recent content on Steven Lauterwasser</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2023 Steven Lauterwasser</copyright><atom:link href="https://stevenlauterwasser.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2023 Steven Lauterwasser</copyright>
+    <atom:link href="https://stevenlauterwasser.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
       <link>https://stevenlauterwasser.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://stevenlauterwasser.com/contact/</guid>
       <description>I can be contacted via email at s.lauterwasser@northeastern.edu.</description>
     </item>
-    
     <item>
       <title>CV</title>
       <link>https://stevenlauterwasser.com/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://stevenlauterwasser.com/cv/</guid>
       <description>My CV can be downloaded here.</description>
     </item>
-    
     <item>
       <title>Music</title>
       <link>https://stevenlauterwasser.com/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://stevenlauterwasser.com/music/</guid>
       <description>I have been the music director for Perfect Fifth since Fall 2014. Perfect Fifth is a small student a cappella choir specializing in the music of the Renaissance, but our repertoire ranges from the beginnings of western polyphonic music in the Middle Ages all the way to contemporary art music. While it previously relied on directorial support from the University of California Choral Ensembles (ably provided by Mark Sumner), under my tenure Perfect Fifth has shifted to being fully self-run.</description>
     </item>
-    
     <item>
       <title>Research</title>
       <link>https://stevenlauterwasser.com/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://stevenlauterwasser.com/research/</guid>
       <description>Beyond the Structure of Attitudes: Belief Systems, Affect, and Polarization Despite the recognition of the importance of affect elsewhere (including in much work on polarization), work on public opinion and belief systems has so far looked only at propositional attitudes. But, as seen in the worldview model of polarization, the connections between propositional attitudes and affective judgments are of central importance to the actual function of any given belief system (or worldview).</description>
     </item>
-    
     <item>
       <title>Teaching</title>
       <link>https://stevenlauterwasser.com/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://stevenlauterwasser.com/teaching/</guid>
       <description>I have extensive experience teaching both within the university and outside of it. I have six years of experience as a Graduate Student Instructor at UC Berkeley, where I received an Outstanding Graduate Student Instructor Award in 2021 as well as the Certificate of Teaching and Learning in Higher Education. I&amp;rsquo;ve taught sections for a wide variety of courses, from Intro to Sociology and Intro Methods to upper level courses including both those focused on particular topic areas (i.</description>
     </item>
-    
   </channel>
 </rss>
