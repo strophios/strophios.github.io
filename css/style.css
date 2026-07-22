@@ -418,7 +418,8 @@ table th {
 .progress:not(:last-child),
 .subtitle:not(:last-child),
 .tabs:not(:last-child),
-.title:not(:last-child) {
+.title:not(:last-child),
+.footnotes:not(:last-child) {
   margin-bottom: 20px;
 }
 
